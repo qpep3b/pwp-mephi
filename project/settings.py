@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '+*8i^c*e4dl#y4g)*=-b2r#-q3#u4ahwo^a6l(#c2%&4#o84=k'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['pwp-mephi-spendmoney.herokuapp.com']
 
